@@ -40,6 +40,12 @@ uvicorn main:app --reload --port 8000
 - Dashboard metrics for total orders, revenue, and garment revenue breakdown
 - Static frontend served by FastAPI from `static/index.html`
 
+<img width="1600" height="766" alt="WhatsApp Image 2026-04-19 at 12 54 38 AM" src="https://github.com/user-attachments/assets/3d93d3aa-8209-442e-aa90-14a286849824" />
+<img width="1600" height="675" alt="WhatsApp Image 2026-04-19 at 12 55 38 AM" src="https://github.com/user-attachments/assets/788beb2c-fe4a-4b2b-8802-6ca10a6788c6" />
+<img width="1600" height="735" alt="WhatsApp Image 2026-04-19 at 12 56 03 AM" src="https://github.com/user-attachments/assets/d8b246da-7604-4bac-bf4d-7c0034e684ee" />
+<img width="1600" height="702" alt="WhatsApp Image 2026-04-19 at 12 56 21 AM" src="https://github.com/user-attachments/assets/4e8610ef-eda1-4330-b7b5-9b6922ef1145" />
+
+
 ---
 
 ## 🤖 AI Usage Report
